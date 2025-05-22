@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio | Rimawati</title>
+    <link rel="shortcut icon" href="image/logo.svg" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav>
+      <span class="logo">
+        <img src="image/logo.svg" alt="logo" />
+        <h1>Fauzan</h1>
+      </span>
+
+      <ul>
+        <li>
+          <a href="#">Home</a>
+        </li>
+
+        <li>
+          <a href="#">About</a>
+        </li>
+        <li>
+          <a href="#">Project</a>
+        </li>
+
+        <li>
+          <a href="#">Contact</a>
+        </li>
+      </ul>
+
+      <button class="button-contact">Contact Me</button>
+    </nav>
+
+    <main>
+      <div class="content">
+        <h1>Hello, I'm Rimawati 👋</h1>
+        <h3>Web Developer | UI/UX Designer</h3>
+        <p>
+          I am passionate about building excellent software that improves the
+          lives of those around me. Let’s create something amazing together!
+        </p>
+      </div>
+
+      <div class="image">
+        <img src="image/man.jpg" alt="" />
+      </div>
+    </main>
+
+    <footer>
+      <h3>&copy; 2025 Rizqi Noor Fauzan All rights reserved</h3>
+    </footer>
+  </body>
+</html>
